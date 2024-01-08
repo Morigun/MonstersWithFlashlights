@@ -3,3 +3,4 @@ The mod for LethalCompany increases the luminosity of monsters.
 Requirements:
 - https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/
 - https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/
+- https://github.com/Morigun/LC_Lib
