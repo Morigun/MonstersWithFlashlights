@@ -18,8 +18,8 @@ namespace M0r19un.MonstersWithFlashlights
         private void Awake()
         {
             // Plugin startup logic
-            PluginLogger.Initialize(ModGUID);
-            PluginLogger.Log($"Plugin {PluginInfo.PLUGIN_GUID} is loaded!");
+            LC_Lib.M0r19unLogger.Initialize(ModGUID);
+            LC_Lib.M0r19unLogger.Log($"Plugin {PluginInfo.PLUGIN_GUID} is loaded!");
             Enemies.Init();
         }
     }
